@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @epcervantes7 
 - 👀 I’m interested in artificial inteligence, machine learning and deep learning
-- 🌱 I’m currently using the adquired knowledge in real-word use cases, using structurared and unstructurated data.
+- 🌱 I’m currently using the adquired knowledge in real-word use cases, using structurated and unstructurated data.
 ..
 
 <!---
